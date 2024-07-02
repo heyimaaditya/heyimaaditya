@@ -11,8 +11,8 @@ A tech-savvy professional with expertise in full-stack development, data structu
 * ✉️  You can contact me at [aadityatyagi158@gmail.com](mailto:aadityatyagi158@gmail.com)
 
 
-<a href="https://www.github.com/ShivangM" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ShivangM?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/heyimaaditya" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/heyimaaditya?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
