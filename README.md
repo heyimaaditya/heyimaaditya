@@ -8,7 +8,7 @@
         Software Developer
     </h3>
 </a>
-Hi! I am a skilled Software developer with experience in building and maintaining high-performance, robust server-side and client-side applications. My expertise in Web Development allows me to efficiently handle database management, and API development. I am familiar with popular web frameworks such as ReactJS and Vue.js and have experience working with databases such as Postgresql and MongoDB. I am also comfortable with version control using Git and have experience with Agile development methodologies.
+Hi! I am a skilled Software developer with experience in building and maintaining high-performance, robust server-side and client-side applications. My expertise in Web Development allows me to efficiently handle database management, and API development. I am familiar with popular web frameworks such as ReactJS and Angular.js and have experience working with databases such as Postgresql and MongoDB. I am also comfortable with version control using Git and have experience with Agile development methodologies.
 
 ### 📈 GitHub Activity Graph:
 
