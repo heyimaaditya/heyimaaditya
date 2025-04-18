@@ -10,6 +10,8 @@
 </a>
 Hi! I’m a Software Developer with experience building high-performance, scalable applications across both server-side and client-side environments. My expertise spans full-stack web development, including database architecture, RESTful API design, and seamless integration of modern frameworks like React.js and Node.js. I thrive in Agile environments, leveraging tools like Git for version control and collaborating on distributed systems.
 
+
+
 🚀 Featured Projects
 <details>
   <summary>💰 <strong>Expensio</strong> | Microservices Finance Platform <img src="https://readme-awesome-gif.vercel.app/gif/tech/microservices.gif" width="28px" /></summary>
