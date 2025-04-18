@@ -57,7 +57,7 @@ Passionate about building scalable applications and solving complex problems thr
   <a href="https://www.codechef.com/users/xavier11">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&label=3★ Coder" alt="CodeChef">
   </a>
-  <a href="https://codeforces.com/profile/aadi900">
+  <a href="https://www.codeforces.com/profile/aadi_900">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&label=Pupil" alt="Codeforces">
   </a>
 </p>
