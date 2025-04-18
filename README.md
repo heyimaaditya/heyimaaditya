@@ -8,7 +8,57 @@
         Software Developer
     </h3>
 </a>
-Hi! I am a skilled Software developer with experience in building and maintaining high-performance, robust server-side and client-side applications. My expertise in Web Development allows me to efficiently handle database management, and API development. I am familiar with popular web frameworks such as ReactJS and Angular.js and have experience working with databases such as Postgresql and MongoDB. I am also comfortable with version control using Git and have experience with Agile development methodologies.
+Hi! I’m a Software Developer with experience building high-performance, scalable applications across both server-side and client-side environments. My expertise spans full-stack web development, including database architecture, RESTful API design, and seamless integration of modern frameworks like React.js and Node.js. I thrive in Agile environments, leveraging tools like Git for version control and collaborating on distributed systems.
+
+Key Projects:
+
+1. Expensio - Advanced Microservices Finance Platform
+(Microservices, Kafka, Kubernetes, Node.js, NLP, PostgreSQL, MongoDB) | [Live Demo]
+
+Secured Top 5 at Hack36 MNNIT by building a finance app; later revamped it into a microservices architecture for scalability.
+
+Engineered an NLP-powered Smart Chat Assistant for natural language expense entries, auto-generating AI-driven financial summaries.
+
+Solved data consistency challenges using MongoDB/PostgreSQL transactions, SAGA patterns, and idempotency.
+
+Streamlined inter-service communication via a Kafka-driven event bus, enhancing reliability and reducing latency.
+
+2. Healthverse - Appointment Booking System
+(Node.js, React.js, Material UI, MongoDB) | Jan 2024
+
+Designed a user-friendly web app for patients and healthcare providers, featuring secure JWT-based authentication.
+
+Implemented Redux for state management and Axios for API interactions, ensuring smooth session handling.
+
+Enabled patients to book, reschedule, and manage appointments with role-based access for healthcare providers.
+
+Technical Skills:
+
+Languages: C++, JavaScript, C, SQL
+
+Web Tech: Node.js, React.js, Express.js, HTML/CSS, Material UI
+
+Distributed Systems: Microservices, Kafka, RabbitMQ, Design Patterns (SAGA, Idempotency)
+
+Databases: MongoDB, PostgreSQL, MySQL
+
+Software Engineering: System Design, OOP, DBMS, OS, Algorithms, Data Structures
+
+Tools: Git, GitHub
+
+Achievements:
+
+Top 5 at Hack36 MNNIT (36-hour hackathon).
+
+LeetCode Knight (Max Rating: 1885, Top 5% globally).
+
+CodeChef 3★ (Max Rating: 1716, Global Rank <10K).
+
+Codeforces Pupil (Max Rating: 1372).
+
+Position of Responsibility:
+
+Event Coordinator for WebCode-Rasayana at MNNIT: Organized coding events and workshops for 200+ participants.
 
 ### 📈 GitHub Activity Graph:
 
