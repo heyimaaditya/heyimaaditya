@@ -1,121 +1,61 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<!-- README.md -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Aaditya;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<a href="https://discord.gg/5dZPVytKnn">
-    <h3 align="center">
-        <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
-        Software Developer
-    </h3>
-</a>
-Hi! I’m a Software Developer with experience building high-performance, scalable applications across both server-side and client-side environments. My expertise spans full-stack web development, including database architecture, RESTful API design, and seamless integration of modern frameworks like React.js and Node.js. I thrive in Agile environments, leveraging tools like Git for version control and collaborating on distributed systems.
-
-Key Projects:
-
-1. Expensio - Advanced Microservices Finance Platform
-(Microservices, Kafka, Kubernetes, Node.js, NLP, PostgreSQL, MongoDB) | [Live Demo]
-
-Secured Top 5 at Hack36 MNNIT by building a finance app; later revamped it into a microservices architecture for scalability.
-
-Engineered an NLP-powered Smart Chat Assistant for natural language expense entries, auto-generating AI-driven financial summaries.
-
-Solved data consistency challenges using MongoDB/PostgreSQL transactions, SAGA patterns, and idempotency.
-
-Streamlined inter-service communication via a Kafka-driven event bus, enhancing reliability and reducing latency.
-
-2. Healthverse - Appointment Booking System
-(Node.js, React.js, Material UI, MongoDB) | Jan 2024
-
-Designed a user-friendly web app for patients and healthcare providers, featuring secure JWT-based authentication.
-
-Implemented Redux for state management and Axios for API interactions, ensuring smooth session handling.
-
-Enabled patients to book, reschedule, and manage appointments with role-based access for healthcare providers.
-
-Technical Skills:
-
-Languages: C++, JavaScript, C, SQL
-
-Web Tech: Node.js, React.js, Express.js, HTML/CSS, Material UI
-
-Distributed Systems: Microservices, Kafka, RabbitMQ, Design Patterns (SAGA, Idempotency)
-
-Databases: MongoDB, PostgreSQL, MySQL
-
-Software Engineering: System Design, OOP, DBMS, OS, Algorithms, Data Structures
-
-Tools: Git, GitHub
-
-Achievements:
-
-Top 5 at Hack36 MNNIT (36-hour hackathon).
-
-LeetCode Knight (Max Rating: 1885, Top 5% globally).
-
-CodeChef 3★ (Max Rating: 1716, Global Rank <10K).
-
-Codeforces Pupil (Max Rating: 1372).
-
-Position of Responsibility:
-
-Event Coordinator for WebCode-Rasayana at MNNIT: Organized coding events and workshops for 200+ participants.
-
-### 📈 GitHub Activity Graph:
-
-<p align="center">
-  <a href="https://github.com/heyimaaditya">
-    <img align="center"
-         height="150em"
-         src="https://streak-stats.demolab.com?user=heyimaaditya&theme=aura&hide_border=false&border_radius=10" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/heyimaaditya">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heyimaaditya&theme=aura"
-    />
-  <a href="https://github.com/heyimaaditya">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heyimaaditya&theme=aura"
-    />
-</p>
-
-<p align="center">
-  <a href="https://github.com/heyimaaditya">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyimaaditya&theme=aura"
-    />
-  <a href="https://github.com/heyimaaditya">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heyimaaditya&theme=aura&utcOffset=8"
-    />
-</p>
-
-<p align="center">
- <a href="https://github.com/heyimaaditya">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyimaaditya&theme=aura"
-    />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&animation=fadeIn&fontAlignY=40"/>
 
 <div align="center">
-  <a href = "mailto:aadityatyagi900@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/aaditya27/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </a>
-  
- </div>
-</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Aaditya;Full‑Stack+Developer;Problem+Solver;Open‑Source+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
+<h3 align="center">
+  <a href="https://discord.gg/5dZPVytKnn">
+    <img src="https://i.imgur.com/5XG3bRq.png" width="280" alt="Discord Banner">
+  </a><br>
+  <img src="https://readme-awesome-gif.vercel.app/gif/emoji/Technologist.gif" width="28px" alt="Technologist"> Crafting Code & Solving Challenges
+</h3>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{heyimaaditya}/count.svg" /></p> 
-<br></div>
 
-<h2 align="center"> Thanks for visiting my profile. </h2>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+```diff
++ 💻 Full‑Stack Developer | 🚀 Microservices Expert | 🏆 Competitive Programmer
+</div>
+🛠️ Technical Arsenal
+<p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> </p>
+🚀 Featured Projects
+<details> <summary>💰 <strong>Expensio</strong> | Microservices Finance Platform  <img src="https://readme-awesome-gif.vercel.app/gif/tech/microservices.gif" width="28px" /></summary>
+diff
+Copy
+Edit
+# Tech Stack : Node.js | Kafka | Kubernetes | NLP | PostgreSQL
+🏆 Top 5 at Hack36 MNNIT
+
+🤖 Built AI‑powered NLP Chat Assistant
+
+⚡ Kafka‑driven event‑bus architecture
+
+🧩 Achieved data consistency via SAGA pattern
+
+</details> <details> <summary>🏥 <strong>Healthverse</strong> | Healthcare Management System  <img src="https://readme-awesome-gif.vercel.app/gif/tech/health-tech.gif" width="28px" /></summary>
+diff
+Copy
+Edit
+# Tech Stack : MERN | JWT | Redux
+🔒 Secure JWT authentication
+
+📅 Role‑based appointment management
+
+🧭 State management with Redux
+
+🎨 Material UI design system
+
+</details>
+🏅 Coding Credentials
+<p align="center"> <a href="https://leetcode.com/yourprofile/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&label=Knight (Top 5%)" alt="LeetCode"> </a> <a href="https://www.codechef.com/users/yourprofile"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&label=3★ Coder" alt="CodeChef"> </a> <a href="https://codeforces.com/profile/yourprofile"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&label=Pupil" alt="Codeforces"> </a> </p>
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=heyimaaditya&show_icons=true&theme=aura&hide_border=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyimaaditya&layout=compact&theme=aura&hide_border=true" alt="Top Langs" /> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyimaaditya&theme=aura&hide_border=true" alt="GitHub Streak" /> </div>
+🌐 Let's Connect
+<p align="center"> <a href="mailto:aadityatyagi900@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> <a href="https://www.linkedin.com/in/aaditya27/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://discord.gg/yourinvite"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> </a> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer&animation=fadeIn&fontAlignY=40"/> <div align="center">
+
+</div>
