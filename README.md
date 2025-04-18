@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Aaditya;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Aaditya;+Full‑Stack+Developer;+Microservices+Expert;+Competitive+Programmer+:%29)](https://git.io/typing-svg)
 
 <a href="https://discord.gg/5dZPVytKnn">
     <h3 align="center">
@@ -10,6 +10,40 @@
 </a>
 Hi! I’m a Software Developer with experience building high-performance, scalable applications across both server-side and client-side environments. My expertise spans full-stack web development, including database architecture, RESTful API design, and seamless integration of modern frameworks like React.js and Node.js. I thrive in Agile environments, leveraging tools like Git for version control and collaborating on distributed systems.
 
+🚀 Featured Projects
+<details>
+  <summary>💰 <strong>Expensio</strong> | Microservices Finance Platform <img src="https://readme-awesome-gif.vercel.app/gif/tech/microservices.gif" width="28px" /></summary>
+Tech Stack: Node.js | Kafka | Kubernetes | NLP | PostgreSQL
+
+🏆 Top 5 at Hack36 MNNIT
+🤖 Built AI‑powered NLP Chat Assistant
+⚡ Kafka‑driven event‑bus architecture
+🧩 Achieved data consistency via SAGA pattern
+
+</details>
+<details>
+  <summary>🏥 <strong>Healthverse</strong> | Healthcare Management System <img src="https://readme-awesome-gif.vercel.app/gif/tech/health-tech.gif" width="28px" /></summary>
+Tech Stack: MERN | JWT | Redux
+
+🔒 Secure JWT authentication
+📅 Role‑based appointment management
+🧭 State management with Redux
+🎨 Material UI design system
+
+</details>
+
+🏅 Coding Credentials
+<p align="center">
+  <a href="https://leetcode.com/yourprofile/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&label=Knight (Top 5%)" alt="LeetCode">
+  </a>
+  <a href="https://www.codechef.com/users/yourprofile">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&label=3★ Coder" alt="CodeChef">
+  </a>
+  <a href="https://codeforces.com/profile/yourprofile">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&label=Pupil" alt="Codeforces">
+  </a>
+</p>
 
 ### 📈 GitHub Activity Graph:
 
