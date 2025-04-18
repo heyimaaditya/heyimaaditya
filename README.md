@@ -51,13 +51,13 @@ Passionate about building scalable applications and solving complex problems thr
 ## 🏅 Coding Credentials
 
 <p align="center">
-  <a href="https://leetcode.com/yourprofile/">
+  <a href="https://leetcode.com/fancyaadi/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&label=Knight (Top 5%)" alt="LeetCode">
   </a>
-  <a href="https://www.codechef.com/users/yourprofile">
+  <a href="https://www.codechef.com/users/xavier11">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&label=3★ Coder" alt="CodeChef">
   </a>
-  <a href="https://codeforces.com/profile/yourprofile">
+  <a href="https://codeforces.com/profile/aadi900">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&label=Pupil" alt="Codeforces">
   </a>
 </p>
@@ -80,7 +80,7 @@ Passionate about building scalable applications and solving complex problems thr
   <a href="https://www.linkedin.com/in/aaditya27/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://discord.gg/yourinvite">
+  <a href="https://discord.gg/xavier">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
