@@ -44,7 +44,7 @@ Tech Stack: MERN | JWT | Redux
      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&label=3*" alt="CodeChef">
   </a>
   <a href="https://codeforces.com/profile/yourprofile">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&label=Pupil" alt="Codeforces">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&label=Specialist" alt="Codeforces">
   </a>
 </p>
 
