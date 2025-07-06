@@ -37,13 +37,13 @@ Tech Stack: MERN | JWT | Redux
 ## 🏅 Coding Credentials
 
 <p align="center">
-  <a href="https://leetcode.com/yourprofile/">
+  <a href="[https://leetcode.com//](https://leetcode.com/u/fancyaadi/)">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&label=Knight" alt="LeetCode">
   </a>
-  <a href="https://www.codechef.com/users/yourprofile">
+  <a href="[https://www.codechef.com/users/yourprofile](https://www.codechef.com/users/xavier11)">
      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&label=3*" alt="CodeChef">
   </a>
-  <a href="https://codeforces.com/profile/yourprofile">
+  <a href="[https://codeforces.com/profile/yourprofile](https://codeforces.com/profile/aadi_900)">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&label=Specialist" alt="Codeforces">
   </a>
 </p>
